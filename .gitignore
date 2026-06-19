@@ -1,0 +1,6 @@
+dados/
+__pycache__/
+*.pyc
+*.xlsx
+atualizar_html.py
+template_sistema_visitas.html
